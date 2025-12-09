@@ -1,13 +1,11 @@
 # Projeto de Análise de Vendas em Python
 
-Este repositório contém um projeto simples de análise exploratória de dados de vendas.  
-O objetivo é praticar Python, análise de dados e versionamento utilizando Git e GitHub.
+Este repositório contém um projeto simples de análise exploratória de dados de vendas.
 
 ## Tecnologias usadas
 - Python
 - Pandas
-- Jupyter Notebook (opcional)
-- Matplotlib / Seaborn (opcional)
+- plotly
 
 ## Objetivo
 Criar uma análise exploratória simples com métricas como:
